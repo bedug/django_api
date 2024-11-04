@@ -11,6 +11,7 @@ django = "^5.1.2"
 psycopg2-binary = "^2.9.10"
 black = "^24.10.0"
 djangorestframework = "^3.15.2"
+mypy = "^1.13.0"
 
 
 [build-system]
